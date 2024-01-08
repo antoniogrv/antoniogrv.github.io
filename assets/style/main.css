@@ -107,7 +107,7 @@ h2 {
 .docker { background-image: url('/assets/icons/docker.png'); filter: grayscale(1) brightness(1.5); margin-top: -0.5px; }
 .aws { background-image: url('/assets/icons/aws.png'); filter: grayscale(1) brightness(1); }
 .redis { background-image: url('/assets/icons/redis.webp'); margin-right: 9.5px; margin-top: 2px; filter: grayscale(1) brightness(1.3); }
-.sls { background-image: url('/assets/icons/sls.png'); margin-left: -9px; margin-top: 1px; width: 25px; height: 27px; filter: grayscale(1) brightness(1.3); }
+.sls { background-image: url('/assets/icons/sls.png'); margin-top: 1px; width: 25px; height: 27px; filter: grayscale(1) brightness(1.3); }
 .python { background-image: url('/assets/icons/python.png'); width: 27px; height: 27px; }
 .laravel { background-image: url('/assets/icons/laravel.png'); margin-top: 2.5px; width: 30px; height: 27px; filter: grayscale(1) brightness(2.5); }
 .go { background-image: url('/assets/icons/go.svg'); margin-left: -3px; margin-top: 1px; width: 45px; height: 27px; filter: grayscale(1) brightness(1.5); }
