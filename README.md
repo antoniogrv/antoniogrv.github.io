@@ -1,3 +1,3 @@
 # Personal Website
-Heard that Paul Allen's is better.
 
+Built with [Zola](https://www.getzola.org/) and [Serene](https://github.com/isunjn/serene/tree/latest). Hosted thorugh GitHub Pages over at [trustboundary.xyz](https://trustboundary.xyz) and [antoniogrv.github.io](https://antoniogrv.github.io).
